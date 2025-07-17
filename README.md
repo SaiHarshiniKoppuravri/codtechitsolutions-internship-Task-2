@@ -7,4 +7,5 @@
 ## Project Name
 ### Automated Report Generation
 ## output
-###
+### <img width="880" height="458" alt="image" src="https://github.com/user-attachments/assets/65d2ff9d-176e-45e0-b258-96094f9fde2a" />
+
